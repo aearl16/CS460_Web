@@ -20,7 +20,7 @@ table#mytable th {
     color: white;
 }
 
-p, h1, tr, th
+p, h1, tr, th, a
 {
     text-indent: 2.0em;
     font-family: 'Ubuntu', sans-serif;
